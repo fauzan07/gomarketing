@@ -112,34 +112,75 @@ a.learn-more {
     margin-bottom: 1rem;
 }
 
+.testimonials{
+    background-image: url(images/testimonial-bg.jpg);
+    width: 100%;
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
 
+.testi_overlay{
+background-color: rgba(0, 0, 0, 0.5);
+}
+
+.test-text{
+    color: #fff;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #660f18!important;
+    border-color: #200407!important;
+}
+
+/*--------testimonials section end---------*/
 /*--------footer-area start---------*/
-footer a { text-transform: uppercase; font-size: 0.8em; }
+footer a { text-transform: capitalize; font-size: 1em; }
 .footer-area{ 
-    background-color:#000;
+    background-image: url(images/seo-marketing-company.jpg);
+    width: 100%;
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.footer_overlay{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+    
+
+.icon-info i{
+    font-size: 40px;
+    color: #222;
 }
 
 .footer-area a{ 
-    color: #999;
+    color: #222;
     text-decoration: none;
 }
 
 .footer-bottom p{ 
-    color: #999;
+    color: #222;
 }
 
 .footer-area .line{
     border: 1px;
     border-style: solid;
-    border-color: #fff;
+    border-color: #222;
     text-align: left;
     width: 22%;
 }
 
 .footer-info li {
     padding-bottom: 10px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-size: 16px;
+    color: #222;
 }
 
 .footer-contact li {
@@ -148,10 +189,10 @@ footer a { text-transform: uppercase; font-size: 0.8em; }
 }
 
 .footer-widget h4.widget-title {
-    font-size: 18px;
+    font-size: 17px;
     text-transform: uppercase;
-    color: #fff;
-    font-weight: 600;
+    color: #000;
+    font-weight: 400;
     /* padding-bottom: 30px; */
 }
 

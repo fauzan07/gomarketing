@@ -259,6 +259,110 @@
     </div>
   </section>
 
+
+  <section class="testimonials">
+      <div class="testi_overlay py-5">
+          <div class="container">
+              <div class="row justify-content-center">
+                  <div class="col-md-8">
+                  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+              
+                  <div class="carousel-inner">
+                    <div class="carousel-item active">
+                      <div class="text-center">
+                      <h3 class="text-white">“My website is getting more viewings and visits, thanks to GOMarketing, many thanks! I even had a couple of feedback forms! I feel great about it. I look forward to better business because of this.”</h3>
+                      <h4 class="text-white"><b>Brian Paul</b></h4>
+                      <small class="text-white">Corazon Del Cielo</small>
+                      </div>
+                    </div>
+                    <div class="carousel-item">
+                     <div class="text-center">
+                      <h3 class="text-white">“My website is getting more viewings and visits, thanks to GOMarketing, many thanks! I even had a couple of feedback forms! I feel great about it. I look forward to better business because of this.”</h3>
+                      <h4 class="text-white"><b>Brian Paul</b></h4>
+                      <small class="text-white">Corazon Del Cielo</small>
+                      </div>
+                    </div>
+                    <div class="carousel-item">
+                      <div class="text-center">
+                      <h3 class="text-white">“My website is getting more viewings and visits, thanks to GOMarketing, many thanks! I even had a couple of feedback forms! I feel great about it. I look forward to better business because of this.”</h3>
+                      <h4 class="text-white"><b>Brian Paul</b></h4>
+                      <small class="text-white">Corazon Del Cielo</small>
+                      </div>
+                    </div>
+                  </div>
+                  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                  </a>
+                  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                  </a>
+                </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+
+      <div class="contact bg-danger py-5">
+        <div class="container">
+          <h1 class="text-white text-center pb-4">Can We Help Your Business Grow Online?</h1>
+          <div class="row justify-content-center">
+            <div class="col-lg-10">
+            <form>
+              <div class="form-row py-2">
+                <div class="form-group col-md-6">
+                  <input type="text" class="form-control" placeholder="Name*" id="name">
+                </div>
+                <div class="form-group col-md-6">
+                  <input type="text" class="form-control" placeholder="Company Name" id="cname">
+                </div>
+              </div>
+              <div class="form-row py-2">
+                <div class="form-group col-md-6">
+                  <input type="email" class="form-control" placeholder="Email*" id="email">
+                </div>
+                <div class="form-group col-md-6">
+                  <input type="number" class="form-control" placeholder="Phone*" id="phone">
+                </div>
+              </div>
+              <div class="form-row py-2">
+                <div class="form-group col-md-6">
+                    <select id="inputState" class="form-control">
+                      <option selected>What Industry Are You In?</option>
+                      <option>...</option>
+                    </select>
+                </div>
+                <div class="form-group col-md-6">
+                    <select id="inputState" class="form-control">
+                      <option selected>What Industry Are You In?</option>
+                      <option>...</option>
+                    </select>
+                </div>
+              </div>
+              <div class="form-group py-2">
+                <textarea type="text" class="form-control" id="message" placeholder="Message"></textarea>
+              </div>
+          
+              <div class="form-row py-2">
+                <div class="form-group col-md-6">
+                  <lable for="code" class="text-white">Security Code</lable>
+                  <input type="text" class="form-control" placeholder="13-4?" id="code" readonly>
+                </div>
+                <div class="form-group col-md-6 pt-4">
+                  <input type="number" class="form-control" id="code-data">
+                </div>
+              </div>
+              <div class="text-center">
+              <button type="submit" class="btn btn-danger">SEND MESSAGE</button>
+              </div>
+            </form>
+            </div>
+          </div>
+        </div>
+      </div>
+  </section>
+
   
 
 
